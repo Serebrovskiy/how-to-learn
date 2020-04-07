@@ -1,7 +1,7 @@
-.iframes {
+.video__iframes {
   margin: 50px auto 0 ;
 }
 
-.iframes :last-child {
+.video__iframes :last-child {
   margin-right: 0;
   }

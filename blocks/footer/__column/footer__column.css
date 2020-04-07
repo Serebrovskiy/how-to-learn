@@ -1,24 +1,8 @@
+
 .footer__column {
   display: flex;
   justify-content: space-between;
 }
 
 
-/* модификаторы */
 
-.footer__column_content_copyright{
-  flex-basis: 711px;
-  flex-direction: column;
-}
-
- .footer__column_content_info {
-    flex-direction: column;
-    justify-content: flex-start;
-    width: auto;
-}
-
- .footer__column_content_social {
-  flex-direction: column;
-  justify-content: flex-start;
-  width: auto;
- }
